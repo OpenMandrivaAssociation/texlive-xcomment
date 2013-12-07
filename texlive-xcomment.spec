@@ -6,7 +6,7 @@
 # catalog-version 1.3
 Name:		texlive-xcomment
 Version:	1.3
-Release:	4
+Release:	5
 Summary:	Allows selected environments to be included/excluded
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/xcomment
