@@ -1,6 +1,6 @@
 Name:		texlive-xcomment
 Version:	20031
-Release:	1
+Release:	2
 Summary:	Allows selected environments to be included/excluded
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/xcomment
